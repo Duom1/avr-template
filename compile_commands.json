@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/",
+    "command": "avr-gcc -mmcu=atmega328p -DF_CPU=16000000UL -Os -I/usr/avr/include -o main.o -c main.c",
+    "file": "main.c"
+  }
+]
+
